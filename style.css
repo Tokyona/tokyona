@@ -179,7 +179,7 @@ header{
 }
 
 .border3{
-  background: #ebba0ace;
+  background-color: #ebba0ace;
   height: 70px;
   position: absolute;
   display: flex;
